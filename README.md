@@ -1,3 +1,5 @@
 # Goddess
 
-A Chrome Tools
+> A Chrome plugin.
+
+My goddess.
